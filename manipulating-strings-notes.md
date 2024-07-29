@@ -67,3 +67,12 @@ word = input('Please enter a word (Example: cat):')
 # This is known as nesting functions (writing one function inside another)
 print(len(word))
 ```
+
+## Slicing Strings
+
+- You can tell Python to slice (grab) one or more characters from a string
+- Use square brackets `[  ]` and index numbers to do this
+
+## How to Slice Strings in Python
+- [View these examples](https://www.w3schools.com/python/python_strings_slicing.asp)
+- NOTE: The first character in a string has an index number of 0 (zero)
