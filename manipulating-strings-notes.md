@@ -31,7 +31,7 @@
 - You can use **index numbers** to extract (grab) one or more characters from a string
     -  When you move through the string from left to right, the first character in a string has an index number of 0 (zero)
     -  The second character in a string has an index number of 1 (and so forth)
-    -  Use an index number of -1 to grab the **last character** in a string
+    -  Use an index number of -1 to grab the **last character** in any string
     -  If you move from right to left in a string, the last character in your string has an index number of -1
     -  Example: cat
           - The letter 't' has an index number of -1
