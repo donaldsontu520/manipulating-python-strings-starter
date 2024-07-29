@@ -50,7 +50,7 @@ print(character_count)
 print('Please enter a word (Example: cat):')
 word = input ( )
 
-# Returns the length of the string and assigns the string length to the variable `word_length`
+# Returns the length of the string and assigns the string length to the variable ```word_length```
 word_length = len(word)
 # Prints the number of characters found in the word the user entered
 print(word_length)
