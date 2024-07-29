@@ -64,6 +64,6 @@ print(word_length)
 # Get input from the user and store user's input in the variable word
 word = input('Please enter a word (Example: cat):')
 # Use the `len()` function within the `print()` function
-# This is known as *nesting* functions (writing one function inside another)
+# This is known as nesting functions (writing one function inside another)
 print(len(word))
 ```
