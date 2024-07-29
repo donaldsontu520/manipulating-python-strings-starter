@@ -28,3 +28,31 @@
     - Example: The `len()` function returns the number of characters in a string
     - Built-in functions are already part of the Python language, so you just use them when needed (you don't have to create a built-in function because it already exists)
     - NOTE: A blank space also counts as a character in a string
+ 
+## Code Examples
+
+### Example 1: The `len()` Function
+
+```
+# Returns 6 because there are six characters in the word banana
+len('banana')
+```
+
+### Example 2: Storing the returned value in a variable
+```
+character_count = len('banana')
+# Prints the number of characters found in the word banana
+print(character_count)
+```
+
+### Example 3: Prompting user to enter a word and getting the length of the string
+```
+print('Please enter a word (Example: cat):
+word = input ( )
+
+# Returns the length of the string and assigns the string length to the variable `word_length`
+word_length = len(word)
+# Prints the number of characters found in the word the user entered
+print(word_length)
+
+```
