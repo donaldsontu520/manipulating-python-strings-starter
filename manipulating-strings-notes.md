@@ -94,4 +94,18 @@ word = 'computing'
 print(word[1:5]
 ```
 
+## Converting Strings to Uppercase or Lowercase
+
+- Python uses the `.upper()` method to convert a string to uppercase characters
+- Python uses the `.lower()` method to convert a string to lowercase characters
+
+```
+# Assign the string value of 'Good morning!' to the variable greeting
+greeting = 'Good morning!'
+# Convert the value stored in the variable greeting to uppercase
+print(greeting.upper()) # Output would be GOOD MORNING!
+
+# Convert the value stored in the variable greeting to lowercase
+print(greeting.lower()) # Output would be good morning!
+```
 
