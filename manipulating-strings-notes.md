@@ -30,11 +30,11 @@
     - NOTE: A blank space also counts as a character in a string
  
 ## Helpful Resource
-- [Working with Strings in Python](https://codingwithestefania.hashnode.dev/python-string-indexing-how-to-get-characters#heading-using-the-character
+- [Working with Strings in Python](https://codingwithestefania.hashnode.dev/python-string-indexing-how-to-get-characters#heading-using-the-character)
  
 ## Code Examples
 
-### Example 1: The len() Function
+### Example 1: The len( ) Function
 
 ```
 # Returns 6 because there are six characters in the word banana
