@@ -10,8 +10,6 @@
 
 
 
-
-
 # Part 2
 # Use the len( ) function to get the number of characters in your first name
 # Assign the length of your first name to a variable 
@@ -21,12 +19,9 @@
 
 
 
-
-
 # Part 3
 # Use the input ( ) and len ( ) functions to prompt (ask) the user to enter a first name
 # Then have Python print the length (number of characters) in the first name
-
 
 
 
@@ -43,7 +38,6 @@
 # Part 5
 # Assign the string 'Career Tech' to a variable called school
 # Use square brackets and a starting and ending index number to print (display) only the characters 'Tec' on your screen when you run your script
-
 
 
 
