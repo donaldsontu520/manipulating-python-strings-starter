@@ -20,3 +20,11 @@
 - **String data** is always treated as text in your Python script, even if it contains numeric characters
     -  `first_name = 'Alyssa'` (where **Alyssa** is a string)
     -  `street_address = '457 Oak Street'` (where **457 Oak Street** is also a string, even though it contains the number 457)
+- You mark the beginning and end of a string in Python with a pair of single or double quotation marks  (see the `first_name` and `street_address` variables above)
+- You can't do math directly with strings -- you have to convert a string to the numeric data type first
+- You can compare strings to see if they are equal, i.e., to see if they match
+    -  Example: Entering a password twice to make sure they match
+- Python offers lots of built-in string functions you can use to work with strings
+    - Example: The `len()` function returns the number of characters in a string
+    - Built-in functions are already part of the Python language, so you just use them when needed (you don't have to create a built-in function because it already exists)
+    - NOTE: A blank space also counts as a character in a string
