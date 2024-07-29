@@ -61,7 +61,7 @@ print(word_length)
 ```
 ### Example 4: A more efficient way to write the code shown in Example 3
 ```
-# Get input from the user and store user's input in the variable `word`
+# Get input from the user and store user's input in the variable word
 word = input('Please enter a word (Example: cat):')
 # Use the `len()` function within the `print()` function
 # This is known as *nesting* functions (writing one function inside another)
