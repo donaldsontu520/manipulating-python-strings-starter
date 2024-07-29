@@ -36,6 +36,7 @@
     -  Example: cat
           - The letter 't' has an index number of -1
           - The letter 'a' has an index number of -2
+          - The letter 'c' has an index number of -3
  
 ## Helpful Resource
 - [How to Index Strings in Python](https://codingwithestefania.hashnode.dev/python-string-indexing-how-to-get-characters#heading-using-the-character)
