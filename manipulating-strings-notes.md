@@ -14,7 +14,7 @@
 - A **string** is an example of a **data type** you can work with in Python
 - Other Python data types include:
     -  numeric (numbers)
-    -  lists (known as *arrays** in other programming languages)
+    -  lists (known as **arrays** in other programming languages)
     -  dictionaries
     -  Boolean data type (Booleans represent one of two values: `True` or `False`)
 - **String data** is always treated as text in your Python script, even if it contains numeric characters
