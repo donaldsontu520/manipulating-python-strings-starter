@@ -20,7 +20,7 @@
 
 
 # Part 3
-# Use the input ( ) and len ( ) functions to prompt (ask) the user to enter a first name
+# Use the input( ) and len( ) functions to prompt (ask) the user to enter a first name
 # Then have Python print the length (number of characters) in the first name
 
 
@@ -45,5 +45,5 @@
 
 # Part 6
 # Assign the name of your favorite superhero or movie character to a variable
-# Use the Python upper ( ) string method to print the name of your superhero/movie character in uppercase 
-# Also use the Python lower ( ) string method to print the name of your superhero/movie character in lowercase 
+# Use the Python upper( ) string method to print the name of your superhero/movie character in uppercase 
+# Also use the Python lower( ) string method to print the name of your superhero/movie character in lowercase 
