@@ -76,3 +76,22 @@ print(len(word))
 ## How to Slice Strings in Python
 - [View these examples](https://www.w3schools.com/python/python_strings_slicing.asp)
 - NOTE: The first character in a string has an index number of 0 (zero)
+
+### Returning a single character from a string
+```
+# Returns the character 'c' only
+# Remember: The 'S' in 'Spock' has an index number of zero (0)
+word = 'Spock'
+print(word[3])
+```
+
+
+### Returning a slice from a string
+```
+# Returns the characters 'ompu'
+# The character at index (or position) 5 is NOT included in the slice
+word = 'computing'
+print(word[1:5]
+```
+
+
