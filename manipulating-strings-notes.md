@@ -32,7 +32,7 @@
     -  The first character in a string has an index number of 0 (zero)
     -  The second character in a string has an index number of 1 (and so forth)
     -  Use an index number of -1 to grab the **last character** in a string
-    -  If you move from right to left in a string, the last character in a string has an index number of -1
+    -  If you move from right to left in a string, the last character in your string has an index number of -1
     -  Example: cat
           - The letter 't' has an index number of -1
           - The letter 'a' has an index number of -2
