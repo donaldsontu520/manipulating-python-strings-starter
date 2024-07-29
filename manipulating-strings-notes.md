@@ -47,7 +47,7 @@ print(character_count)
 
 ### Example 3: Prompting user to enter a word and getting the length of the string
 ```
-print('Please enter a word (Example: cat):
+print('Please enter a word (Example: cat):')
 word = input ( )
 
 # Returns the length of the string and assigns the string length to the variable `word_length`
@@ -55,4 +55,12 @@ word_length = len(word)
 # Prints the number of characters found in the word the user entered
 print(word_length)
 
+```
+### Example 4: A more efficient way to write the code shown in Example 3
+```
+# Get input from the user and store user's input in the variable `word`
+word = input('Please enter a word (Example: cat):')
+# Use the `len()` function within the `print()` function
+# This is known as *nesting* functions (writing one function inside another)
+print(len(word))
 ```
