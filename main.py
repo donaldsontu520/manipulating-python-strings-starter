@@ -29,7 +29,7 @@
 
 # Part 4
 # Assign the name of the city you live in to a variable called city
-# Use square bracket notation to extract (grab) and print the FOURTH character of your city
+# Use square bracket notation to extract (grab) and print the THIRD character of your city
 
 
 
