@@ -29,9 +29,12 @@
     - Built-in functions are already part of the Python language, so you just use them when needed (you don't have to create a built-in function because it already exists)
     - NOTE: A blank space also counts as a character in a string
  
+## Helpful Resource
+- [Working with Strings in Python](https://codingwithestefania.hashnode.dev/python-string-indexing-how-to-get-characters#heading-using-the-character
+ 
 ## Code Examples
 
-### Example 1: The `len()` Function
+### Example 1: The len() Function
 
 ```
 # Returns 6 because there are six characters in the word banana
@@ -50,7 +53,7 @@ print(character_count)
 print('Please enter a word (Example: cat):')
 word = input ( )
 
-# Returns the length of the string and assigns the string length to the variable ```word_length```
+# Returns the length of the string and assigns the string length to the variable word_length
 word_length = len(word)
 # Prints the number of characters found in the word the user entered
 print(word_length)
