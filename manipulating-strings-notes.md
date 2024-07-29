@@ -30,7 +30,7 @@
     - NOTE: A blank space also counts as a character in a string
  
 ## Helpful Resource
-- [Working with Strings in Python](https://codingwithestefania.hashnode.dev/python-string-indexing-how-to-get-characters#heading-using-the-character)
+- [How to Index Strings in Python](https://codingwithestefania.hashnode.dev/python-string-indexing-how-to-get-characters#heading-using-the-character)
  
 ## Code Examples
 
