@@ -1,7 +1,7 @@
 ## PRIMM Activity
 ### Topic
 
-Take a minute or two to examine the Python code below.
+Take a minute to study the Python code below.
 
 ```python
 greeting = 'Hello, world!'
