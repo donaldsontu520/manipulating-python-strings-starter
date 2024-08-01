@@ -4,7 +4,7 @@
 Take a minute to study the Python code below.
 
 ```python
-greeting = 'Hello, world!'
+greeting = 'Hello! How are you today?'
 print(greeting)
 ```
 
