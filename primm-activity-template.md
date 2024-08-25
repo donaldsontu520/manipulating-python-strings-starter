@@ -11,7 +11,7 @@ print(greeting)
 ### Questions
 Answer these questions about the code.  Be specific in your answers!
 
-1. What specifically will the result be or look like when you run the script shown above?  
+1. What specifically will the result be or look like when you run the script shown above?  (Discuss the punctuation you'll see as well.)
 > Answer 
 
 
