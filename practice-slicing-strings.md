@@ -38,4 +38,4 @@
     - access and print the character in the Star Wars string at index -12
     - access and print the character in the Star Wars string at index -1
     - access and print the character in the Star Wars string at index -24
-    - access and print the characters in the Star Wars string from index -19 to index -13
+    - access and print the characters in the Star Wars string from index -19 to index -10
