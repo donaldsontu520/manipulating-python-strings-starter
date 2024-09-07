@@ -1,5 +1,5 @@
 ## PRIMM Activity
-### Topic
+### Manipulating Strings
 
 Take a minute to study the Python code below.
 
