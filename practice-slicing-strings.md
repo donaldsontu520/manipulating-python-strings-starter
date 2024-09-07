@@ -6,7 +6,7 @@
 
 ### Getting Started
 
-- Add a NEW Python file called `slicing_strings.py` to your GitHub repo (repository) for this project
+- Add a NEW Python file called `slicing_strings.py` to your GitHub repo named `slicing-practice` 
 - Add a comment block to the top of your `slicing_strings.py` file, like so:
 ```python
 # Your first and last name
