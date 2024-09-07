@@ -10,7 +10,7 @@
 - Your answer...
 
 
-### Assume you have the string 'programming'.  What's the index number of the letter a?
+### Assume you have the string 'programming'.  What's the index number of the letter a (if you start from the letter p)?
 - Your answer...
 
 
