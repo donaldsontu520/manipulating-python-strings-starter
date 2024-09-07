@@ -12,16 +12,16 @@
 
 # Part 2
 # Use the len( ) function to get the number of characters in your first name
-# Assign the length of your first name to a variable 
-# Have Python print the value stored in the variable
+# Assign the length of your first name to a variable named num_characters
+# Have Python print the value stored in the num_characters variable
 
 
 
 
 
 # Part 3
-# Use the input( ) and len( ) functions to prompt (ask) the user to enter a first name
-# Then have Python print the length (number of characters) in the first name
+# Use the input( ) and len( ) functions to prompt (ask) the user to enter their last name
+# Then have Python print the length (number of characters) in the last name
 
 
 
@@ -29,7 +29,7 @@
 
 # Part 4
 # Assign the name of the city you live in to a variable called city
-# Use square bracket notation to extract (grab) and print the THIRD character of your city
+# Use square bracket notation to extract (grab) and print the THIRD character in the name of your city
 
 
 
