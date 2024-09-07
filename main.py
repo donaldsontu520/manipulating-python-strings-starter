@@ -1,6 +1,6 @@
-# Abraham Lincoln
-# 26 JUL 20XX
-# Manipulating Strings
+# Your first and last name 
+# Add the current date
+# String Manipulation
 
 # Part 1
 # Define a variable and assign it the string that is your last name
