@@ -11,12 +11,13 @@
 ```python
 # Your first and last name
 # Today's date
-# Slicing/Indexing Strings 
+# Slicing Strings 
 ```
 
 ### Resources
 
-- Watch this video about [string indexing](https://youtu.be/7pXf1DUuaIo?feature=shared) in Python
+- Watch this video about [string slicing](https://youtu.be/7pXf1DUuaIo?feature=shared) in Python
+- String slicing is also known as *string indexing*
 
 ### Your Practice Project
 
