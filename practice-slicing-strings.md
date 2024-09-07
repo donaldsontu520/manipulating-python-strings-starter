@@ -29,6 +29,7 @@
     - access and print the character in the Area 51 string at index 2
     - access and print the character in the Area 51 string at index 10
     - access and print the character in the Area 51 string at index 16
+    - access and print the characters in the Area 51 string from index 5 to index 8 (but not including the character at index 8)
 
 #### Part 2: Accessing Characters Using a NEGATIVE index number
 
