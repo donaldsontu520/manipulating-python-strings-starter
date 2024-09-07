@@ -11,7 +11,7 @@
 ```python
 # Your first and last name
 # Today's date
-# Slicing/Indexing Strings in Python
+# Slicing/Indexing Strings 
 ```
 
 ### Resources
