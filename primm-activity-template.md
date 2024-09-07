@@ -5,11 +5,11 @@ Take a minute to study the Python code below.
 
 ```python
 full_name = 'Taylor Swift'
-print(len(greeting))
+print(len(full_name))
 ```
 
 ### Questions
-Answer these questions about the code.  Be specific with your answers!
+Answer these questions about the code snippets.  
 
 1. What specifically will the result be when you run the script shown above?  
 > Answer 
