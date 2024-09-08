@@ -1,2 +1,2 @@
 # manipulating-python-strings-starter
-Starter files for the lesson about manipulating strings in Python.
+Starter files for activities about manipulating strings in Python.
