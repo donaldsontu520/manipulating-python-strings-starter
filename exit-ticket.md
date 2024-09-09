@@ -7,18 +7,18 @@
 - Use correct spelling and grammar
 
 ### Which Python function lets you count the number of characters in a string?
-- Your answer...
+-the string count method
 
 
 ### Assume you have the string 'programming'.  What's the index number of the letter a (if you start from the letter p)?
-- Your answer...
+-"6"
 
 
 ### Assume you have the string 'Jack Reacher'.  Using NEGATIVE index numbers, what's the negative index number of the letter c in Reacher?
-- Your answer...
+-"-3"
 
 
 ### How many characters total does the string 'Jack Reacher' contain?
-- Your answer...
+-11 characters 
 
 
